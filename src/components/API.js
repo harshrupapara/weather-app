@@ -21,7 +21,7 @@ export const API = (prop) => {
       shortColumnNames: "0",
     },
     headers: {
-      "X-RapidAPI-Key": "7cd1488b43msh82ff903678f236fp114744jsn88d7c14ddecf",
+      "X-RapidAPI-Key": "--CONTACT-ME-FOR-THE-API-KEY--",
       "X-RapidAPI-Host": "visual-crossing-weather.p.rapidapi.com",
     },
   };
